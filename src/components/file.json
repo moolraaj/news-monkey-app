@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Chrome for Android now lets you lock your incognito session",
+    "description": "Chrome is rolling out an update for Android users that lets them lock their incognito sessions when they exit the app.",
+    "url": "https://techcrunch.com/2023/01/26/chrome-for-android-now-lets-you-lock-your-incognito-session/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1008258336-1.jpg?resize=1200,800",
+    "publishedAt": "2023-01-27T06:58:47Z",
+    "content": "Chrome is rolling out an update for Android users that lets them lock their incognito sessions with a password code or biometric info when they exit the app. The feature has been available for iOS us… [+1243 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Twitter co-founder Biz Stone joins board of audiovisual startup Chroma",
+    "description": "Chroma, a startup working to build a new type of audiovisual entertainment specifically for mobile devices, is now adding Twitter co-founder Biz Stone to its board.",
+    "url": "https://techcrunch.com/2023/01/27/twitter-co-founder-biz-stone-joins-board-of-audio-visual-startup-chroma/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/05/biz-stone-twitter.jpg",
+    "publishedAt": "2023-01-26T23:13:12Z",
+    "content": "Chroma, a startup working to build a new type of audiovisual entertainment specifically for mobile devices, is now adding a Twitter co-founder to its board. The company announced today that Twitter a… [+5733 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tage Kene-Okafor",
+    "title": "Jumia's investors rethink their stakes — for better and worse",
+    "description": "Edinburgh-based asset management firm Baillie Gifford reduces stake in African e-commerce company Jumia. But other investors bought more.",
+    "url": "https://techcrunch.com/2023/01/26/jumias-investors-rethink-their-stakes-for-better-and-worse/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/Jumia-Image-07.jpeg?resize=1200,700",
+    "publishedAt": "2023-01-26T23:06:47Z",
+    "content": "Baillie Gifford, the Edinburgh-based asset management firm long known to have a penchant for pre-IPO tech companies, has reduced its shares in African e-commerce giant Jumia, per the latest 13G/A fil… [+3184 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Hands on with Walmart's new (but buggy) 'Text to Shop' feature",
+    "description": "Walmart recently introduced a new way to shop: via text. Last month, the retail giant launched its “Text to Shop” experience which allows mobile consumers across both iOS and Android devices to text Walmart the items they want to purchase from either their lo…",
+    "url": "https://techcrunch.com/2023/01/26/hands-on-with-walmarts-new-but-buggy-text-to-shop-feature/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/walmart-chat.jpg?resize=1200,675",
+    "publishedAt": "2023-01-26T22:10:57Z",
+    "content": "Walmart recently introduced a new way to shop: via text. Last month, the retail giant launched its “Text to Shop” experience which allows mobile consumers across both iOS and Android devices to text … [+10135 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Daily Crunch: Berlin-based design platform Kittl raises $11.6M Series A to take on Adobe and Canva",
+    "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2023/01/26/daily-crunch-berlin-based-design-platform-kittl-raises-11-6m-series-a-to-take-on-adobe-and-canva/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/Kittl-team.jpg",
+    "publishedAt": "2023-01-26T21:29:30Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nDid you know you can buy 3D printed key caps to replace, say, your… [+3714 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aisha Malik",
+    "title": "Match restructures executive leadership, hires former Snap VP of Product as new CTO",
+    "description": "Match Group, the parent company of several popular dating apps, including Tinder and Hinge, announced a revamped executive leadership team.",
+    "url": "https://techcrunch.com/2023/01/26/match-reshuffles-executive-leadership-hires-former-snap-vp-product-cto/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1241790742.jpeg",
+    "publishedAt": "2023-01-26T20:27:33Z",
+    "content": "Match Group, the parent company of several popular dating apps, including Tinder and Hinge, has announced a revamped executive leadership team. Most notably, the company is bringing on former Vice Pr… [+2390 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Inscribe bags $25M to fight financial fraud with AI",
+    "description": "Inscribe, a startup developing AI-powered tech to fight financial fraud, has raised $25 million in a venture funding round.",
+    "url": "https://techcrunch.com/2023/01/26/inscribe-bags-25m-to-fight-financial-fraud-with-ai/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/12/corporate-fraud.png?resize=1200,675",
+    "publishedAt": "2023-01-26T19:46:05Z",
+    "content": "Conor Burke spent much of his career in the back office of a big bank in Ireland. His team was tasked with digitizing the onboarding process — particularly document-heavy manual review workflows — th… [+5424 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "As activist investors target Salesforce, what’s next for the CRM giant?",
+    "description": "With two activist investors taking significant stakes in Salesforce, Marc Benioff will be challenged in ways he probably hasn't been before.",
+    "url": "https://techcrunch.com/2023/01/26/as-activist-investors-target-salesforce-whats-next-for-the-crm-giant/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/salesforce-hounds.jpg?resize=1200,645",
+    "publishedAt": "2023-01-26T19:45:30Z",
+    "content": "By any measure, Salesforce CEO Marc Benioff has been a successful executive. He helped build Salesforce from the ground up, starting in an apartment in San Francisco in 1999 and eventually erecting S… [+3746 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Stripe eyes an exit",
+    "description": "Payments giant Stripe is exploring whether or not it should go public or pursue a transaction on the private market.",
+    "url": "https://techcrunch.com/2023/01/26/fintech-stripe-eyes-an-exit/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1242296087.jpg?resize=1200,801",
+    "publishedAt": "2023-01-26T18:48:23Z",
+    "content": "Fintech startup Stripe has set a 12-month deadline for itself to go public, either through a direct listing, or pursue a transaction on the private market, such as a fundraising event or a tender off… [+2438 chars]"
+    },
+    {
+ "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Jacquelyn Melinek",
+    "title": "Crypto job hunters should build personal brands and be ‘obsessed with web3’",
+    "description": "This month was filled with announcements from major crypto firms that were laying off employees. Of course, this “trend” is not limited to this industry.",
+    "url": "https://techcrunch.com/2023/01/26/crypto-job-hunters-should-build-personal-brands-and-be-obsessed-with-web3/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1061597582.jpg?resize=1200,800",
+    "publishedAt": "2023-01-26T17:28:58Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important crypto stories delivered to your inbox every Thursday at 12 p.m. PT, subscribe here.\r\nWelcome back to Chain Reaction.\r\nThis month was filled… [+6396 chars]"
+    }
+    ]
+    }
